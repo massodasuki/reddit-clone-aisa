@@ -14,7 +14,7 @@ const Sidebar = dynamic(() => import('@/components/layout/Sidebar/Sidebar'));
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-	title: 'Reddit - Beyond the Feed',
+	title: 'AISA - Best Finance Alert',
 	description:
 		'Elevate your online experience with Reddit, the hub for diverse communities and vibrant discussions. Immerse yourself in a dynamic platform that goes beyond the ordinary, connecting you with a global network of voices.',
 };

@@ -70,7 +70,7 @@ const Sidebar = () => {
 						variant="primary"
 						size="large"
 					>
-						Join Reddit
+						Join AISA
 					</Button>
 				</div>
 			</div>
